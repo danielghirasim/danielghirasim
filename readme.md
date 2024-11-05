@@ -9,7 +9,7 @@ Showcasing expertise in Frontend development, including React, Next.js, SAP Comm
 * 🌍  I'm based in Satu Mare, Romania
 * 🖥️  See my portfolio at [www.danielghirasim.com](http://danielghirasim.com)
 * ✉️  You can contact me at [danielghirasim@gmail.com](mailto:danielghirasim@gmail.com)
-* 🤝  I'm open to collaborating on Interesting Projects featuring Next.js or SAP Hybris (Commerce Cloud)
+* 🤝  I'm open to collaborating on Interesting Projects featuring Next.js, React or SAP Hybris (Commerce Cloud)
 
 ### Skills
 
